@@ -23,7 +23,7 @@ client.on('ready', () => {
     client.user.setStatus("Online")
 });
   client.on('ready', () => {
-     client.user.setActivity("MaX Music",{type: 'LISTENING'});
+     client.user.setActivity("1!play",{type: 'LISTENING'});
 
 });
   
